@@ -6,5 +6,6 @@ one paragraph `printf("hello,world\n")`
         printf("hello,world\n");  
     }  
 
-古力娜扎：  
+古力娜扎： 
+***
 ![image](https://github.com/limall/exerciseMarkdown/raw/master/test1.jpg)  
