@@ -7,8 +7,10 @@ one paragraph `printf("hello,world\n")`
     }  
 
 古力娜扎:  
-a paragraph  
-a new paragraph  
-ignore_multiple_underscores  
+```
+function test{
+    echo "Hello world!"
+}
+```
 ***
 ![image](https://github.com/limall/exerciseMarkdown/raw/master/test1.jpg)  
