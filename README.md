@@ -6,8 +6,9 @@ one paragraph `printf("hello,world\n")`
         printf("hello,world\n");  
     }  
 
-古力娜扎： 
-a paragraph
-a new paragraph
+古力娜扎:  
+a paragraph  
+a new paragraph  
+ignore_multiple_underscores  
 ***
 ![image](https://github.com/limall/exerciseMarkdown/raw/master/test1.jpg)  
