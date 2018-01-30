@@ -1,2 +1,2 @@
 # exerciseMarkdown
->> just learn to write readme
+> just learn to write readme
