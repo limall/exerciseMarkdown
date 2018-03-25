@@ -13,4 +13,4 @@ function test{
 }
 ```
 ***
-![image](https://github.com/limall/exerciseMarkdown/raw/master/test1.jpg)  
+![image](https://github.com/limall/exerciseMarkdown/raw/master/forReadme/sample.png)  
